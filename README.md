@@ -1,2 +1,2 @@
 # modelando-POO
- banco modelado em POO , NTT Data
+ Sistema bancário feito em Python e modelado em POO
